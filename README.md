@@ -1,2 +1,2 @@
-# ml-analytics
+# ml-analytics-py
 
